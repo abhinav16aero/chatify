@@ -12,7 +12,7 @@ const Welcome = () => {
   return (
     <main className="welcome">
       <h2>Welcome to the Chat.</h2>
-//       <img src="/logo512.png" alt="ReactJs logo" width={50} height={50} />
+      <img src="/logo512.png" alt="ReactJs logo" width={50} height={50} />
       <p>Sign in with Google to chat and enable all cookies for the smooth experience. Also, wait for 10 sec for the chatroom to load.</p>
       <button className="sign-in">
         <img
