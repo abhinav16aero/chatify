@@ -21,7 +21,7 @@ input {
 .App {
   width: 100%;
   min-height: 100vh;
-  background-color: #1c2c4c;
+  background-color: #f8fcfd;
   color: #4c768d;
 }
 
@@ -46,9 +46,9 @@ input {
 .sign-out {
   padding: 5px 10px;
   border-radius: 5px;
-  color: #88dded;
+  color: black;
   border: 1px solid #1c2c4c;
-  background-color: #1c2c4c;
+  background-color: #f8fcfd;
   font-weight: 600;
 }
 
