@@ -21,7 +21,7 @@ input {
 .App {
   width: 100%;
   min-height: 100vh;
-  background-color: #f8fcfd;
+  background-color: black;
   color: #4c768d;
 }
 
